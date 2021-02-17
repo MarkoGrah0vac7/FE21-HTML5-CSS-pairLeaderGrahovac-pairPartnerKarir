@@ -1,0 +1,28 @@
+div {
+    border-radius: 1rem;
+    border-bottom: 2rem;
+    border-color: blue;
+    margin: 5px;
+}
+
+#third p {
+    visibility: visible;
+}
+
+h1 {
+    visibility: visible;
+}
+
+div #second {
+    visibility: visible;
+}
+
+#sixth img {
+    visibility: visible;
+    height: auto;
+    width: 200px;
+}
+
+#first p {
+    font-size: 40px;
+}
