@@ -1,0 +1,22 @@
+div {
+    border-radius: 1rem;
+    border-bottom: 2rem;
+    border-color: blue;
+    margin: 5px;
+}
+
+#third p {
+    visibility: hidden;
+}
+
+h1 {
+    visibility: hidden;
+}
+
+div #second {
+    visibility: hidden;
+}
+
+#sixth img {
+    visibility: visible;
+}
