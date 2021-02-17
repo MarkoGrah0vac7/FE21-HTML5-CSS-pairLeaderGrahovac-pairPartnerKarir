@@ -1,4 +1,22 @@
 img {
     height: auto;
-    width: 100px;
+    width: 310px;
+}
+
+td {
+    padding: 1rem;
+}
+
+table {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #ccc;
+    margin: 2rem;
+}
+
+th {
+    font-size: 50px;
+    font-family: verdana;
+    color: #c38a1e;
 }
